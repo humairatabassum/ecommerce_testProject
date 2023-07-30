@@ -1,0 +1,17 @@
+D:\Visual Studio\Ecommerce.Database\bin\Debug\net7.0\Ecommerce.Database.deps.json
+D:\Visual Studio\Ecommerce.Database\bin\Debug\net7.0\Ecommerce.Database.runtimeconfig.json
+D:\Visual Studio\Ecommerce.Database\bin\Debug\net7.0\Ecommerce.Database.dll
+D:\Visual Studio\Ecommerce.Database\bin\Debug\net7.0\Ecommerce.Database.pdb
+D:\Visual Studio\Ecommerce.Database\bin\Debug\net7.0\EcommerceModels.dll
+D:\Visual Studio\Ecommerce.Database\bin\Debug\net7.0\EcommerceModels.pdb
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.csproj.AssemblyReference.cache
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.AssemblyInfoInputs.cache
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.AssemblyInfo.cs
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.csproj.CopyComplete
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.dll
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\refint\Ecommerce.Database.dll
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.pdb
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\Ecommerce.Database.genruntimeconfig.cache
+D:\Visual Studio\Ecommerce.Database\obj\Debug\net7.0\ref\Ecommerce.Database.dll

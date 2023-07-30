@@ -1,0 +1,14 @@
+D:\Visual Studio\EcommerceModels\bin\Debug\net7.0\EcommerceModels.deps.json
+D:\Visual Studio\EcommerceModels\bin\Debug\net7.0\EcommerceModels.dll
+D:\Visual Studio\EcommerceModels\bin\Debug\net7.0\EcommerceModels.pdb
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.csproj.AssemblyReference.cache
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.AssemblyInfoInputs.cache
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.AssemblyInfo.cs
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.csproj.CoreCompileInputs.cache
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.dll
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\refint\EcommerceModels.dll
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.pdb
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\ref\EcommerceModels.dll
+D:\Visual Studio\EcommerceModels\bin\Debug\net7.0\EcommerceModels.runtimeconfig.json
+D:\Visual Studio\EcommerceModels\obj\Debug\net7.0\EcommerceModels.genruntimeconfig.cache

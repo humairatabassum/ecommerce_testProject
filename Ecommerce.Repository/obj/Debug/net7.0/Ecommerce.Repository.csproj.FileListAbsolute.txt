@@ -1,0 +1,17 @@
+D:\Visual Studio\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Repository.deps.json
+D:\Visual Studio\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Repository.dll
+D:\Visual Studio\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Repository.pdb
+D:\Visual Studio\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Database.dll
+D:\Visual Studio\Ecommerce.Repository\bin\Debug\net7.0\EcommerceModels.dll
+D:\Visual Studio\Ecommerce.Repository\bin\Debug\net7.0\Ecommerce.Database.pdb
+D:\Visual Studio\Ecommerce.Repository\bin\Debug\net7.0\EcommerceModels.pdb
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.csproj.AssemblyReference.cache
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.AssemblyInfoInputs.cache
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.AssemblyInfo.cs
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.csproj.CopyComplete
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.dll
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\refint\Ecommerce.Repository.dll
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\Ecommerce.Repository.pdb
+D:\Visual Studio\Ecommerce.Repository\obj\Debug\net7.0\ref\Ecommerce.Repository.dll
