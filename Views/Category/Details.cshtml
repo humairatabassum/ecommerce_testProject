@@ -1,0 +1,32 @@
+﻿@model CategoryListVM
+
+<h2 style="padding: 15px ; text-align:center ; color:darkslateblue">Category Details</h2>
+
+<div style="box-shadow: 5px 5px 5px grey">
+
+<table class="table table-primary table-bordered table-striped ">
+     <tr>
+         <th colspan="2" style="text-align:center; font-size:22px">Profile Information</th>
+     </tr>
+
+    <tr style ="text-align:center">
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr style="text-align:center">
+        <th>Description</th>
+        <td>@Model.Description</td>
+    </tr>
+
+
+</table>
+
+<div style="padding:5px ; margin:5px" >
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info">Update</a>
+    <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+    <div style="text-align:right ; margin-top:10px">
+        <a asp-action="Index" class="btn btn-outline-primary" style="text-align:right">Back</a>
+    </div>
+</div>
+</div>

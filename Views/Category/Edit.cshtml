@@ -1,0 +1,23 @@
+﻿@model CategoryEditVM ;
+
+
+<h2 style="text-align:center">Category Edit Profile</h2>
+
+<form method="post">
+<input type="hidden" asp-for="Id" />
+    <div class="form-group" style="padding:10px">
+        <label for="exampleInputEmail1">Name</label>
+        <input type="text" class="form-control" asp-for="Name" aria-describedby="emailHelp" placeholder="Enter Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+    </div>
+    <div class="form-group" style="padding:10px">
+        <label for="exampleInputName">Descriptionr</label>
+        <input type="text" class="form-control" asp-for="Description" placeholder="Enter Phone Number">
+    </div>
+    
+    <div style="padding:10px">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+

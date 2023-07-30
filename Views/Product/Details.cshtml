@@ -1,0 +1,48 @@
+﻿@model ProductListVM
+
+<h2 style="text-align:center ; padding:16px">Product Details</h2>
+
+<div style="box-shadow: 5px 5px 5px grey">
+
+<table class="table table-success table-bordered table-striped ">
+    <tr>
+        <th colspan="2" style="text-align:center; font-size:22px">Product Information</th>
+    </tr>
+
+    <tr style="text-align:center">
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr style="text-align:center">
+        <th>Phone</th>
+        <td>@Model.Price</td>
+    </tr>
+
+    <tr style="text-align:center">
+        <th>Email</th>
+        <td>@Model.Description</td>
+    </tr>
+
+    <tr style="text-align:center">
+        <th>Country</th>
+        <td>@Model.Color</td>
+    </tr>
+
+    <tr style="text-align:center">
+        <th>City</th>
+        <td>@Model.Size</td>
+    </tr>
+
+
+</table>
+
+<div style="padding:5px ; margin:10px">
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info">Update</a>
+    <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+    <div style="text-align:right">
+        <a asp-action="Index" class="btn btn-outline-primary" style="text-align:right">Back</a>
+    </div>
+</div>
+ 
+</div>

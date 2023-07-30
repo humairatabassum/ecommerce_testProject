@@ -1,0 +1,47 @@
+﻿@model ICollection<ProductListVM>
+
+@{
+    int str = 0;
+}
+<div style="text-align:center">
+    <h2 style="color:brown">Product List</h2>
+</div>
+<div style="text-align:right ; margin:10px">
+    <a asp-action="Create" class="btn btn-primary">Add product</a>
+</div>
+    
+
+<table class="table table-warning table-bordered table-active table-striped">
+    <thead class="thead-dark">
+        <tr class="thead-dark">
+            <th scope="col">#</th>
+            <th scope="col">Product Name</th>
+            <th scope="col">product Price</th>
+            <th scope="col">Action </th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (var pro in Model)
+            {
+                <tr>
+                    <td>@(++str)</td>
+                    <td>@pro.Name</td>
+                     <td>@pro.Price</td>
+                    <td>
+                    <a asp-action="Details" asp-route-id="@pro.Id" 
+                        class="btn btn-info btn-sm">Details
+                    </a>
+                    <a asp-action="Edit" asp-route-id="@pro.Id" 
+                        class="btn btn-success btn-sm">Edit
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@pro.Id" 
+                        class="btn btn-danger btn-sm">Delete
+                    </a>
+                    </td>
+                
+                </tr>
+            }
+        
+    </tbody>
+</table>
+ 

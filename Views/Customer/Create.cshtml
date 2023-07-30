@@ -1,0 +1,34 @@
+﻿@model CustomerCreate
+
+
+    <h2> Welcome to Customer Create Page </h2>
+    <form method="post">
+        <div class="form-group" style="padding:10px">
+            <label for="exampleInputEmail1">Name</label>
+            <input type="text" class="form-control"  asp-for="Name" aria-describedby="emailHelp" placeholder="Enter Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+            
+        </div>
+        <div class="form-group" style="padding:10px">
+            <label for="exampleInputName">Phone Number</label>
+            <input type="text" class="form-control" asp-for="PhoneNumber" placeholder="Enter Phone Number">
+        </div>
+        <div class="form-group" style="padding:10px">
+            <label for="exampleInputEmail">Email address</label>
+            <input type="email" class="form-control" asp-for="Email" placeholder="Enter Email">
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group" style="padding:10px">
+            <label for="exampleInputName">Country</label>
+            <input type="text" class="form-control" asp-for="Country" placeholder="Enter Country">
+        </div>
+        <div class="form-group" style="padding:10px">
+             <label for="exampleInputName">City</label>
+             <input type="text" class="form-control" asp-for="City" placeholder="Enter City">
+        </div>
+
+        <div style="padding:10px">
+             <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+
